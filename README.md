@@ -85,9 +85,6 @@ The project implements a Logic Tree approach for analyzing historical earthquake
 - Vertical displacement and tsunami inundation data
 - Historical documentation from 1730, 1906, and 1985 events
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## Authors
 
