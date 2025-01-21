@@ -1,0 +1,5 @@
+*.grd
+*.pyc
+.DS_Store
+LT-Stochastic/Slab/*.grd
+node_modules/
